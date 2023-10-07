@@ -5,8 +5,7 @@
 /.pnp
 .pnp.js
 .npmignore
-.env
-.gitignore
+
 
 # testing
 /coverage
